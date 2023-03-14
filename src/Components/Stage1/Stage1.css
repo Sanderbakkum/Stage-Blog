@@ -1,0 +1,91 @@
+/* 1e helft */
+
+.con__qc{
+    display: flex;
+    background-color: #CBE4DE;
+}
+
+.Week_container{
+    color: #2E4F4F;
+    width: 50%;
+    height: 95rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 1rem;
+
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    width: 100rem;
+    height: 20rem;
+    padding-left: 18%;
+    gap: 3rem;
+    color: #CBE4DE;
+    
+    
+}
+li{
+    background-color: #2E4F4F;
+    list-style: none;
+    border: 1px black solid;
+    align-items: center;
+    width: 40rem;
+    height: 15.6rem;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+/* 2de helft */
+
+.container-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    background-color: #CBE4DE;
+}
+
+.verhaal{
+    
+    display: flex;
+    flex-direction: row;
+    width: 80rem;
+    height: 50rem;
+    
+}
+
+.text-con{
+    width: 60%;
+    background-color: #2E4F4F;
+    color: #CBE4DE;
+    padding: 2rem;
+   
+    
+}
+
+.text{
+    padding-top: 1rem;
+}
+.qc-images{
+    width: 40%;
+    background-color: #2E4F4F;
+}
+
+.App-logoqc{
+    width: 100%;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+   
+}
+.App-qcimage{
+    width: 100%;
+    height: 385px;
+}

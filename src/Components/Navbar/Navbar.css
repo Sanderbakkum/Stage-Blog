@@ -1,0 +1,35 @@
+
+nav{
+    background-color: #2C3333;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 30rem;
+    padding: 0 1rem;
+    color: #CBE4DE;
+    font-weight: bold;
+    font-family: "JetBrains Mono",monospace;
+}
+.site-title{
+    font-size: 3.5rem;
+    margin-left: 10rem;
+    
+}
+
+nav a{
+    color: inherit;
+    text-decoration: none;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+}
+
+
+.login{
+    background-color: #E38B29;
+    color: white;
+    border-radius: 10rem;
+    
+    
+}
